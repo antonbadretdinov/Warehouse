@@ -1,0 +1,2 @@
+## Screenshots
+<img src="https://github.com/antonbadretdinov/Warehouse/blob/master/Screenshot_1.png" width="200">  <img src="https://github.com/antonbadretdinov/Warehouse/blob/master/Screenshot_2.png" width="200">  <img src="https://github.com/antonbadretdinov/Warehouse/blob/master/Screenshot_3.png" width="200">  <img src="https://github.com/antonbadretdinov/Warehouse/blob/master/Screenshot_4.png" width="200">
